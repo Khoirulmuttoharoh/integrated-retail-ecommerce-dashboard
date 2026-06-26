@@ -1,7 +1,7 @@
 # 📊 Integrated Retail & E-Commerce Performance Dashboard
 
 <p align="center">
-  <img src="images/cover.png" width="900"/>
+  <img src="images/cover.png" width="500"/>
 </p>
 
 <p align="center">
