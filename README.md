@@ -194,7 +194,7 @@ integrated-retail-ecommerce-dashboard/
 Scan the QR Code below to explore the interactive dashboard.
 
 <p align="center">
-<img src="images/powerbi qr.png" width="200">
+<img src="images/powerbi-qr.jpg" width="200">
 </p>
 
 Or click:
